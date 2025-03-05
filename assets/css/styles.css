@@ -77,6 +77,15 @@ header {
     mask: var(--character-bottom-image-src) bottom / contain no-repeat;
     -webkit-mask: var(--character-bottom-image-src) bottom / 100% no-repeat;
   }
+  main::before {
+    content: "";
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    background: var(--page-background) no-repeat, url("../images/backgrounds/florest.png") no-repeat;
+    background-size: cover;
+    z-index: -1;
+  }
   
   /*** SECTIONS STYLES ***/
   
