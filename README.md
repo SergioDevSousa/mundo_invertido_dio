@@ -86,5 +86,5 @@ Uma jornada para quem não tem medo do desconhecido. O caminho para o Mundo Inve
 <p>
     <img align=left margin=10 width=80 src="https://avatars.githubusercontent.com/u/166451865?s=96&v=4"/>
     <p>&nbsp&nbsp&nbspSergio Sousa<br>
-    &nbsp&nbsp&nbsp<a href="http://instagram.com/diogomainardes.dev">Instagram</a>&nbsp;|&nbsp;<a href="https://github.com/SergioDevSousa">GitHub</a>&nbsp;|&nbsp;<a href="https://www.linkedin.com/in/sergiosousa-tec/">LinkedIn</a>&nbsp;|&nbsp;
+    &nbsp;&nbsp;<a href="https://github.com/SergioDevSousa">GitHub</a>&nbsp;|&nbsp;<a href="https://www.linkedin.com/in/sergiosousa-tec/">LinkedIn</a>&nbsp;&nbsp;
 <br/>
